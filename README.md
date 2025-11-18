@@ -93,14 +93,12 @@ dengan ciri khas, ritme kerja, dan style anime sendiri.
 
 ---
 
-# 🍥 Anime Aesthetic Section  
-
 <div align="center">
 
 ### *“Kerja keras itu seperti arc panjang — capek, tapi endingnya selalu manis.”*  
 <img src="https://i.pinimg.com/originals/08/8c/84/088c846664c6bca320cf4e5316e3e4b7.gif" width="300"/>
 
-<br><br>
+<br>
 
 ### *“Kalau ingin jadi lebih kuat, hadapi rasa takutmu.”*  
 <img src="https://i.pinimg.com/originals/3c/42/41/3c42410b21ebcc6ce0daeb95c85d568c.gif" width="280"/>
@@ -109,7 +107,7 @@ dengan ciri khas, ritme kerja, dan style anime sendiri.
 
 ---
 
-# 📊 GitHub Stats (Anime Style)
+# 📊 GitHub Stats 
 
 <div align="center">
 
